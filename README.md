@@ -26,6 +26,6 @@ I thrive under pressure and am enthusiastic about working in a team. I possess l
   <li>Git</li>
   <li>MySQL</li>
 </ul>
-Please don't hesitate to contact me 🍵
+Please don't hesitate to contact me 🍵 <br>
 📱+573217550046 <br>
 ✉️dlopez1591@gmail.com
