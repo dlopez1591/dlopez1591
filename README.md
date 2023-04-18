@@ -11,3 +11,19 @@ I am a passionate web developer, with a love for programming and technology. I d
 
 
 I thrive under pressure and am enthusiastic about working in a team. I possess leadership skills, active listening skills, and a natural inclination and appetite for self-directed and learning of new concepts.
+
+### Skills 💻
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>BootStrap</li>
+  <li>JavaScript</li>
+  <li>Vue</li>
+  <li>Java</li>
+  <li>Spring</li>
+  <li>Spring Boot</li>
+  <li>Spring Security</li>
+  <li>Git</li>
+  <li>MySQL</li>
+ 
+</ul>
