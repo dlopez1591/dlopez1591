@@ -25,6 +25,9 @@ I thrive under pressure and am enthusiastic about working in a team. I possess l
   <li>Spring Security</li>
   <li>Git</li>
   <li>MySQL</li>
+  <li>Axios</li>
+  <li>PostgreSQL</li>
+  <li>Agile Methodology</li>
 </ul>
 Please don't hesitate to contact me 🍵 <br>
 📱+573217550046 <br>
